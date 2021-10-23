@@ -58,7 +58,7 @@ Here is this dialog in the form of a table
    | Son injury        |  Maybe              |
    +-------------------+---------------------+
    |                   |                     |
-   | Avoid war	       |  Maybe              |
+   | Avoid war	       |  Maybe               |
    +-------------------+---------------------+
    Table representing the farmer's philosophy.
    
