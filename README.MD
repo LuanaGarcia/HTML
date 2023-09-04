@@ -1,10 +1,10 @@
 # Semântica HTML
 
 # DIO | Semântica HTML
-Repositório para armazenar resumos sobre o curso Formação Java Developer da [**Digital inovation one**](https://www.cursoemvideo.com/).
+Repositório para armazenar resumos sobre o curso Formação Java Developer da [**Digital inovation one**](https://www.dio.me/).
 
 ## 📚 Documentação
-- [Documentação Java](https://glysns.gitbook.io/java-basico)
+- [Documentação HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 ## 💻 Resumos das Aulas
 
