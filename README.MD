@@ -10,7 +10,7 @@ Repositório para armazenar resumos sobre o curso Formação Java Developer da [
 
 | Aulas | Resumos |
 |-------|---------|
-| Semântica | [Resumos](Classes.md) |
+| Semântica | [Resumos](Resumo.md) |
 ---------------------
 
 
