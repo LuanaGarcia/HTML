@@ -1,7 +1,7 @@
 # Semântica HTML
 
 # DIO | Semântica HTML
-Repositório para armazenar resumos sobre o curso Formação Java Developer da [**Digital inovation one**](https://www.dio.me/).
+Repositório para armazenar resumos sobre o curso de introdução a HTML5 da [**Digital inovation one**](https://www.dio.me/).
 
 ## 📚 Documentação
 - [Documentação HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
