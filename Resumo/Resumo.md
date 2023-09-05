@@ -1,6 +1,6 @@
 # Conceitos básicos de HTML
 
-### Elemento HTML    
+- ### Elemento HTML    
 
 ![foto](imagens/elemento.png)
 
@@ -29,7 +29,10 @@ Contém elementos que serão lidos pelo navegador, como os metadados - um exempl
 ## \<body>
 Dentro da tag body colocamos todo o conteúdo visível ao usuário: textos, imagens, vídeos.
 
-# Semântica
+---
+---
+---
+# ***Semântica***
 A semântica nos permite descrever mais precisamente o nosso conteúdo, agora um bloco de texto não é apenas uma div, agora é um article e tem mais significado assim.
 
 ## \<section>
@@ -48,9 +51,14 @@ Representa um conteúdo independente e de maior relevância dentro de uma págin
 Esse elemento representa o rodapé do conteúdo ou de parte dele, pois ele é aceito dentro de vários elementos, como article e section e até do body. Exemplos de conteúdo de um <footer> são informações de autor e links relacionados.
 
 ## \<h1>-\<h6>
-Eles não foram criados na versão 5 do HTML e nem são específicos para semântica, mas servem para esse propósito. São utilizados para marcar a importância dos títulos, sendo <h1> o mais importante e <h6> o menos. Uma dica: use apenas um <h1> por página, pois ele representa o objetivo da sua página. 
+Eles não foram criados na versão 5 do HTML e nem são específicos para semântica, mas servem para esse propósito. São utilizados para marcar a importância dos títulos, sendo \<h1> o mais importante e \<h6> o menos. Uma dica: use apenas um \<h1> por página, pois ele representa o objetivo da sua página. 
 
-# Textos e links
+---
+---
+---
+
+# ***Textos e links***
+
 Textos
 ## \<p>
 Representa um parágrafo, mas ele não suporta apenas texto, podemos adicionar imagens, código, vídeos e vários outros tipos de conteúdo dentro dele.
@@ -65,7 +73,11 @@ Representa o hyperlink para onde sua âncora aponta, pode ser uma página do seu
 ### target
 Serve para abrir nossos links em outra aba do navegador usando o valor _blank. (\<a href="mailto:lucas@vilaboim.com" target="_blank">lucas@vilaboim.com\</a>)
 
-# Listas
+---
+---
+---
+
+# ***Listas***
 Listas servem para agrupar uma coleção de itens, como uma lista de ingredientes ou, como será no nosso caso, uma lista com contatos.
 ## \<ul>
 Cria uma lista não ordenada, onde a ordem dos elementos não é importante, e é representada com pontos, círculos ou quadrados.
