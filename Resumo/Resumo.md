@@ -48,7 +48,7 @@ Representa um conteúdo independente e de maior relevância dentro de uma págin
 É uma seção que engloba conteúdos relacionados ao conteúdo principal, como artigos relacionados, biografia do autor e publicidade. Normalmente são representadas como barras laterais.
 
 ## \<footer>
-Esse elemento representa o rodapé do conteúdo ou de parte dele, pois ele é aceito dentro de vários elementos, como article e section e até do body. Exemplos de conteúdo de um <footer> são informações de autor e links relacionados.
+Esse elemento representa o rodapé do conteúdo ou de parte dele, pois ele é aceito dentro de vários elementos, como article e section e até do body. Exemplos de conteúdo de um \<footer> são informações de autor e links relacionados.
 
 ## \<h1>-\<h6>
 Eles não foram criados na versão 5 do HTML e nem são específicos para semântica, mas servem para esse propósito. São utilizados para marcar a importância dos títulos, sendo \<h1> o mais importante e \<h6> o menos. Uma dica: use apenas um \<h1> por página, pois ele representa o objetivo da sua página. 
@@ -86,4 +86,4 @@ Cria uma lista não ordenada, onde a ordem dos elementos não é importante, e �
 Serve para criar lista ordenadas, nessas a ordem importa, portanto elas são representadas com números, algarismos romanos ou letras.
 
 ## \<li>
-É um item dentro de uma dessas listas. Um <li> pode conter vários tipos de conteúdos, como parágrafos, imagens e até outras listas.
+É um item dentro de uma dessas listas. Um \<li> pode conter vários tipos de conteúdos, como parágrafos, imagens e até outras listas.
